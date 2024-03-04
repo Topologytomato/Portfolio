@@ -1,5 +1,5 @@
 # What is it?
-This is a Portfolio file with writing sample, coding sample and the portfolio file.
+It is a Portfolio file with writing sample, coding sample and the portfolio file. The skills and technologies used in the projects are mainly related to regression analysis, data visualization, and data processing. There are also a few projects about Machine Learning/AI.
 
 # Project List
 - Analysis of The Brazilian Population In The US
