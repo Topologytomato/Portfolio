@@ -13,8 +13,13 @@ Data Source: http://insideairbnb.com/get-the-data/
 
 ## Function of the scripts:
 - Agro_proj.R
-  - The script is designed to extract and cleanse raw data, rendering it suitable for training a Random Forest model. It encompasses data cleaning, geographic information re-projection, data merging, and pixel data retrieval. Additionally, it facilitates the extraction of data from an agricultural public data API.
+  - The script is designed to extract and clean raw data, rendering it suitable for training a Random Forest model. It encompasses data cleaning, geographic information re-projection, data merging, and pixel data retrieval. Additionally, it facilitates the extraction of data from an agricultural public data API.
 
+- UCDS_proj.R
+  - The script is designed to clean and visualize the raw data of strawberry from USDA. The main ideal is using the tidyverse package to clean and organize the data.
+ 
+- Mapshinyapp.R
+  - The script is designed to draw a map and show the MBTA routes in greater Boston.
 
 # Project List in portfolio
 - Analysis of The Brazilian Population In The US
