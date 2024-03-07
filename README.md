@@ -2,7 +2,7 @@
 It is a Portfolio repository with writing sample, coding sample and the portfolio file. The skills and technologies used in the projects are mainly related to regression analysis, data visualization, and data processing. There are also a few projects about Machine Learning/AI.
 
 # Writing Sample
-It is an analysis report about Airbnb data in Boston and Hawaii. This report aims to analyze the factors which may affect the price of houses or rooms in Airbnb, and conduct multilevel analysis towards the price in different neighbourhoods of Hawaii and Boston.
+It is an analysis report about Airbnb data in Boston and Hawaii. The report aims to analyze the factors that may affect the price of houses or rooms on Airbnb and conduct a multilevel analysis of the prices in different neighbourhoods of Hawaii and Boston.
 
 Data Source: http://insideairbnb.com/get-the-data/
 
@@ -12,7 +12,8 @@ Data Source: http://insideairbnb.com/get-the-data/
 - R language
 
 ## Function of the scripts:
-- 
+- Agro_proj.R
+  - The script is designed to extract and cleanse raw data, rendering it suitable for training a Random Forest model. It encompasses data cleaning, geographic information re-projection, data merging, and pixel data retrieval. Additionally, it facilitates the extraction of data from an agricultural public data API.
 
 
 # Project List
