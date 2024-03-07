@@ -2,11 +2,17 @@
 It is a Portfolio repository with writing sample, coding sample and the portfolio file. The skills and technologies used in the projects are mainly related to regression analysis, data visualization, and data processing. There are also a few projects about Machine Learning/AI.
 
 # Writing Sample
+It is an analysis report about Airbnb data in Boston and Hawaii. This report aims to analyze the factors which may affect the price of houses or rooms in Airbnb, and conduct multilevel analysis towards the price in different neighbourhoods of Hawaii and Boston.
+
+Data Source: http://insideairbnb.com/get-the-data/
 
 # Coding Sample
 ## Language used
 - Python
 - R language
+
+## Function of the scripts:
+- 
 
 
 # Project List
