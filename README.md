@@ -16,7 +16,7 @@ Data Source: http://insideairbnb.com/get-the-data/
   - The script is designed to extract and cleanse raw data, rendering it suitable for training a Random Forest model. It encompasses data cleaning, geographic information re-projection, data merging, and pixel data retrieval. Additionally, it facilitates the extraction of data from an agricultural public data API.
 
 
-# Project List
+# Project List in portfolio
 - Analysis of The Brazilian Population In The US
   - Demographic Analysis, Data Visualization, Data Extraction Automation, API
 - Airbnb Price Analysis Report for neighbourhoods in Boston and Hawaii
